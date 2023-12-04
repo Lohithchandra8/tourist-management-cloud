@@ -1,8 +1,8 @@
 <?php 
 // DB credentials.
-define('DB_HOST','localhost');
-define('DB_USER','root');
-define('DB_PASS','');
+define('DB_HOST','http://tourism0819.mysql.database.azure.com');
+define('DB_USER','lohith_8');
+define('DB_PASS','password@12');
 define('DB_NAME','tms');
 // Establish database connection.
 try
